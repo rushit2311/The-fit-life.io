@@ -1,0 +1,109 @@
+body{
+    background-color: #FFF7E9;
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+    margin-left:48%;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+    text-align: justify;
+    margin-left:49%;
+    margin-right:4% ;
+}
+.que{
+    position: absolute;
+}
+.uw{
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+}
+.ru{
+    font-size: 50px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-weight: 600;
+}
+.rua{
+    color:blue;
+    margin-left: 1%;
+    font-size: 30px;
+    margin-right: 55%;
+    text-align: justify;
+}
+.teeth{
+    position: absolute;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+    margin-left: 50%;
+    margin-top: -52%;
+    height: 300px;
+}
+.seek{
+    position: absolute;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+    margin-left: 50%;
+    margin-top: -35%;
+    height: 300px;
+    width: 750px;
+}
+.period{
+    position: absolute;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+    margin-left: 50%;
+    margin-top: -18%;
+    height: 300px;
+    width: 750px;
+}
+.causes{
+    font-size: 50px;
+    margin-left: 50%;
+    font-weight: 600;
+}
+.cau{
+    position: absolute;
+    color:blue;
+    margin-left: 49%;
+    margin-right: 1%;
+    font-size: 30px;
+    text-align: justify;
+}
+.mental{
+    position: absolute;
+    margin-top: -600px;
+    margin-left: -90%;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+}
+.treatment{
+    position: absolute;
+    font-size: 50px;
+    margin-top: 650px;
+    margin-left: 1%;
+    font-weight: 600;
+}
+.trea{
+    position: absolute;
+    color:blue;
+    font-size: 30px;
+    margin-top: 710px;
+    margin-left: 1%;
+    text-align: justify;
+    margin-right: 55%;
+}
+.chart{
+    position: absolute;
+    height: 500px;
+    width: 800px;
+    border-radius: 10px;
+    margin-left: 110%;
+    margin-top: -75%;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+}
